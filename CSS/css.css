@@ -1,0 +1,48 @@
+/*<!--slid_tit inicio-->*/
+
+.slide,h2{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+
+/*login*/
+.login{
+color: black;
+background-color: #d3d3d3;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+border-color: black;
+text-align: center;
+}
+
+.agendamento{
+color: black;
+background-color: #d3d3d3;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+border-color: black;
+text-align: center;
+}
+
+.cadastro{
+color: black;
+background-color: #d3d3d3;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 10px;
+border-color: black;
+text-align: center;
+}
+
+/*titulos*/
+#titulos{
+color: #ffffff;
+}
+
